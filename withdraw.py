@@ -38,5 +38,5 @@ def withdraw(ls):
     id_file.close()
     ls[3] = str(current_balance)
     print('Your current balance: ' + ls[3])
-
+    
     return ls
