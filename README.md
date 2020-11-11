@@ -28,7 +28,7 @@ create_account.py
 menu2.py    
 deposit.py  withdraw.py 
 
-### Ankitha (RE)
+### Ankita (RE)
 show_history.py (under menu2)
 read_file.py
 change_password.py 
