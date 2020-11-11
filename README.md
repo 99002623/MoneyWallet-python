@@ -35,7 +35,7 @@ change_password.py
 checkPass.py 
 
 gitinspector -HlmTwr --grading --format=html > gitinsp.html
-## Batches
+## Badges
   * Codacy
   [![Codacy Badge](https://app.codacy.com/project/badge/Grade/c89d48d10f5442f885600cd8cbe0f521)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=99002660/Python_Microproject&amp;utm_campaign=Badge_Grade)
   
