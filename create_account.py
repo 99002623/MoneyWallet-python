@@ -27,3 +27,17 @@ def create_account(ls):
     id_file.close()
     accounts_file.close()
     ls.append([str(new_last_id), account_name, account_password, '0'])
+
+    asdsafd
+    async def asd
+    asd
+    asd
+    
+    sdfdsd
+    f
+    sdf
+    sdf
+    sd
+    f
+    df(parameter_list):
+        pass
