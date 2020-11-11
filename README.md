@@ -34,4 +34,5 @@ read_file.py
 change_password.py 
 checkPass.py 
 
+gitinspector -HlmTwr --grading --format=html > gitinsp.html
 
