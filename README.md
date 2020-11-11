@@ -2,7 +2,6 @@
 
 The project Money wallet provides us with features such as Money Remittance service to the customers to transfer or withdraw the funds to Bank account from the Wallet. The clients can do essential functionalities like credit, charge, and so on.
 
-
 ## Design 
 1. MoneyWallet.py
 2. menu1.py
@@ -13,9 +12,6 @@ The project Money wallet provides us with features such as Money Remittance serv
 * checkPass.py 
 * read_file.py
 
-
-
-      
 ## Todo
 
 ### ME (Network)
