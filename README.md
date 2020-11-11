@@ -17,7 +17,7 @@ The project Money wallet provides us with features such as Money Remittance serv
 
 ## Contribution
 
-### ME (Network)
+### Naga Akhil 
 MoneyWallet.py
 menu1.py
 login.py 
