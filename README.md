@@ -1,6 +1,7 @@
 # MoneyWallet-python
 
-![Upload Python Package](https://github.com/99002623/MoneyWallet-python/workflows/Upload%20Python%20Package/badge.svg)
+![Code Coverage](https://github.com/99002623/MoneyWallet-python/workflows/Code%20Coverage/badge.svg)
+
 
 The project Money wallet provides us with features such as Money Remittance service to the customers to transfer or withdraw the funds to Bank account from the Wallet. The clients can do essential functionalities like credit, charge, and so on.
 
