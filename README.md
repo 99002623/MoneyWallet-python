@@ -26,10 +26,10 @@ create_account.py
 
 ### Madhura (Threads)
 menu2.py    
-deposit.py  withdraw.py  show_history.py 
+deposit.py  withdraw.py 
 
 ### Ankitha (RE)
-Pass word files
+show_history.py (under menu2)
 read_file.py
 change_password.py 
 checkPass.py 
