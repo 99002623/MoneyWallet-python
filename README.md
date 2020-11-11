@@ -1,6 +1,6 @@
 # MoneyWallet-python
 
-This is MoneyWallet which provides the Money Remittance service to the customers to transfer  or withdraw the funds to Bank account from the Wallet.
+The project Money wallet provides us with features such as Money Remittance service to the customers to transfer or withdraw the funds to Bank account from the Wallet. The clients can do essential functionalities like credit, charge, and so on.
 
 
 ## Design 
