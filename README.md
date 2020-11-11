@@ -15,7 +15,7 @@ The project Money wallet provides us with features such as Money Remittance serv
 * checkPass.py 
 * read_file.py
 
-## Todo
+## Contribution
 
 ### ME (Network)
 MoneyWallet.py
