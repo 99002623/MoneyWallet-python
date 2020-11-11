@@ -15,17 +15,4 @@ def login(acc_list):
         else:
             continue
 
-    if not found:
-        clear_screen()
-        print('Wrong ID or Password')
-        login(acc_list)
 
-    else:
-        acc_file = open('Accounts.txt', 'w')
-        print('Saving changes...')
-        # after logging out of the account
-        # write changes to accounts.txt file
-        for acc in acc_list:
-            for elements in acc:
-                acc_file.write("%s\t" % elements)
-            acc_file.write('\n')
